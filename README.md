@@ -4,9 +4,9 @@
 <img src="https://img.techpowerup.org/200729/undraw-circuit-board-4c4d.png" alt="" height="280" width="100%"/>
 
 
-<h3>
+<h4>
 A passionate **Software Developer**🚀 having an experience and knowledge of building Web and Mobile applications with Flutter / Reactjs / Nodejs / Django and firmware designing with ARM Cortex / Raspberry Pi and some other cool libraries and frameworks.
-</h3>
+</h4>
 
 <br/>
 
