@@ -1,7 +1,7 @@
 
 # Hello World 🌏,   I'm [Shubham Lodhi](shubhamlodhi.github.io) 
 
-<img src="https://img.techpowerup.org/200729/undraw-circuit-board-4c4d.png" alt="" height="280" width="100%"/>
+<img src="https://img.techpowerup.org/200729/undraw-circuit-board-4c4d.png" alt="" height="300" width="100%"/>
 
 
 
