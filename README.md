@@ -1,12 +1,12 @@
 
 # Hello World 🌏,   I'm [Shubham Lodhi](shubhamlodhi.github.io) 
 
-<img src="https://img.techpowerup.org/200729/undraw-circuit-board-4c4d.png" alt="" height="300" width="100%"/>
+<img src="https://img.techpowerup.org/200729/undraw-circuit-board-4c4d.png" alt="" height="400" width="100%"/>
 
 
-
+<h2>
 A passionate **Software Developer**🚀 having an experience and knowledge of building Web and Mobile applications with Flutter / Reactjs / Nodejs / Django and firmware designing with ARM Cortex / Raspberry Pi and some other cool libraries and frameworks.
-
+</h2>
 
 <br/>
 
