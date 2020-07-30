@@ -1,7 +1,7 @@
 
 # Hello World 🌏,       I'm [Shubham Lodhi](shubhamlodhi.github.io) 
 
-<img src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/10/Legible-Code-1.png" alt="" height="200" width="100%"/>
+<img src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/10/Legible-Code-1.png" alt="" height="300" width="100%"/>
 
 
 ### A passionate *Software Developer* 🚀 having an experience and knowledge of building Web and Mobile applications with Flutter / Reactjs / Nodejs / Django and firmware designing with ARM Cortex / Raspberry Pi and some other cool libraries and frameworks.
