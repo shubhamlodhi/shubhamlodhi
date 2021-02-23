@@ -147,7 +147,7 @@ src="https://github-readme-stats.vercel.app/api?username=shubhamlodhi&show_icons
 </div>
 
 <div align="center">
-<a href="https://github.com/shubhamlodhi"> <img align="center" width=80%
+<a href="https://github.com/shubhamlodhi"> <img align="center" width=60%
 src="https://metrics.lecoq.io/shubhamlodhi" />
 </a>
 </div>
